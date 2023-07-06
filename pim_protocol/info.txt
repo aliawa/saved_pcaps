@@ -1,0 +1,5 @@
+to filter register and register-stop messages
+pim.type == 1 || pim.type == 2
+
+The register stop message is coming from RP (Rondevou Point)
+
